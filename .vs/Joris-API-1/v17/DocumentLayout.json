@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\dtos\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\dtos\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\repositories\\inmemorykategorijarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\repositories\\inmemorykategorijarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\controllers\\kategorijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\controllers\\kategorijacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\controllers\\proizvodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\dtos\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\dtos\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\repositories\\inmemoryproizvodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\repositories\\inmemoryproizvodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|c:\\users\\lazar\\source\\repos\\joris-api-1\\joris-api-1\\repositories\\imagacin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0988F2BC-ABC8-4CAB-8993-85FC785CD307}|Joris-API-1\\Joris-API-1.csproj|solutionrelative:joris-api-1\\repositories\\imagacin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Program.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Program.cs",
+              "RelativeToolTip": "Joris-API-1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:51:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProizvodController.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Controllers\\ProizvodController.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Controllers\\ProizvodController.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Controllers\\ProizvodController.cs",
+              "RelativeToolTip": "Joris-API-1\\Controllers\\ProizvodController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:44:39.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryKategorijaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\InMemoryKategorijaRepository.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Repositories\\InMemoryKategorijaRepository.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\InMemoryKategorijaRepository.cs",
+              "RelativeToolTip": "Joris-API-1\\Repositories\\InMemoryKategorijaRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:31.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryProizvodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\InMemoryProizvodRepository.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Repositories\\InMemoryProizvodRepository.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\InMemoryProizvodRepository.cs",
+              "RelativeToolTip": "Joris-API-1\\Repositories\\InMemoryProizvodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:35:38.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\DTOs\\Kategorija.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\DTOs\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\DTOs\\Kategorija.cs",
+              "RelativeToolTip": "Joris-API-1\\DTOs\\Kategorija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:12:14.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KategorijaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Controllers\\KategorijaController.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Controllers\\KategorijaController.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Controllers\\KategorijaController.cs",
+              "RelativeToolTip": "Joris-API-1\\Controllers\\KategorijaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:52:39.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMagacin.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\IMagacin.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\Repositories\\IMagacin.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\Repositories\\IMagacin.cs",
+              "RelativeToolTip": "Joris-API-1\\Repositories\\IMagacin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:15:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proizvod.cs",
+              "DocumentMoniker": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\DTOs\\Proizvod.cs",
+              "RelativeDocumentMoniker": "Joris-API-1\\DTOs\\Proizvod.cs",
+              "ToolTip": "C:\\Users\\Lazar\\source\\repos\\Joris-API-1\\Joris-API-1\\DTOs\\Proizvod.cs",
+              "RelativeToolTip": "Joris-API-1\\DTOs\\Proizvod.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:08:46.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

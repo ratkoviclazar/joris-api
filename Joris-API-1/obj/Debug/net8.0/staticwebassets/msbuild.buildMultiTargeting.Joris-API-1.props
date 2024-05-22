@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Joris-API-1.props" />
+</Project>

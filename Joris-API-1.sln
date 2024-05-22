@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joris-API-1", "Joris-API-1\Joris-API-1.csproj", "{0988F2BC-ABC8-4CAB-8993-85FC785CD307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0988F2BC-ABC8-4CAB-8993-85FC785CD307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0988F2BC-ABC8-4CAB-8993-85FC785CD307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0988F2BC-ABC8-4CAB-8993-85FC785CD307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0988F2BC-ABC8-4CAB-8993-85FC785CD307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C9C3AB-52CF-448B-91F5-0E060A709B1E}
+	EndGlobalSection
+EndGlobal

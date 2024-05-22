@@ -1,0 +1,6 @@
+@Joris_API_1_HostAddress = http://localhost:5006
+
+GET {{Joris_API_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
